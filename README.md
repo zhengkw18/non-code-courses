@@ -1,2 +1,2 @@
 # non-code-courses
-Some undergraduate courses' homeword/final project in written form
+一些自认为学的还算认真的课程
